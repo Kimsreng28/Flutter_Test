@@ -1,0 +1,14 @@
+CREATE TABLE PRODUCTS (
+  PRODUCTID INT PRIMARY KEY IDENTITY(1,1),
+  PRODUCTNAME NVARCHAR(100) NOT NULL,
+  PRICE DECIMAL(10, 2) NOT NULL,
+  STOCK INT NOT NULL
+);
+
+-- Insert sample data into PRODUCTS table
+-- Sample data for testing purposes
+INSERT INTO PRODUCTS (PRODUCTNAME, PRICE, STOCK) VALUES 
+('Laptop', 999.99, 50),
+('Smartphone', 699.99, 100),
+('Headphones', 149.99, 200),
+('Keyboard', 49.99, 150);
