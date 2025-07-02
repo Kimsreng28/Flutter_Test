@@ -18,6 +18,10 @@ A full-stack application for managing products with Flutter frontend and Node.js
 - Backend: Node.js with Express
 - Database: SQL Server
 
+## Base API Url
+
+- http://localhost:5000/
+
 ## Setup
 
 ### Backend
