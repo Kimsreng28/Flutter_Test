@@ -10,13 +10,17 @@ A full-stack application for managing products with Flutter frontend and Node.js
 - Sort by name, price, or stock
 - Export to PDF
 - Form validation
-- Error handling
+- Error
 
 ## Technologies
 
 - Frontend: Flutter with Provider state management
 - Backend: Node.js with Express
 - Database: SQL Server
+
+## Base API Url
+
+- http://localhost:5000/
 
 ## Setup
 
