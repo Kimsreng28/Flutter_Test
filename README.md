@@ -37,8 +37,10 @@ A full-stack application for managing products with Flutter frontend and Node.js
 
 ### Screen
 
-<img src="assets/images/Screenshot_1751441543.png" alt="Product List Screen" width="400" />
-<img src="assets/images/Screenshot_1751441550.png" alt="Add Product Screen" width="400" />
-<img src="assets/images/Screenshot_1751441562.png" alt="Search Product" width="400" />
-<img src="assets/images/Screenshot_1751441586.png" alt="Export PDF" width="400" />
-<img src="assets/images/Screenshot_1751441590.png" alt="Edit Product" width="400" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/images/Screenshot_1751441543.png" alt="Product List Screen" width="200" />
+  <img src="assets/images/Screenshot_1751441550.png" alt="Add Product Screen" width="200" />
+  <img src="assets/images/Screenshot_1751441562.png" alt="Search Product" width="200" />
+  <img src="assets/images/Screenshot_1751441586.png" alt="Export PDF" width="200" />
+  <img src="assets/images/Screenshot_1751441590.png" alt="Edit Product" width="200" />
+</div>
