@@ -34,3 +34,11 @@ A full-stack application for managing products with Flutter frontend and Node.js
    ```bash
    flutter run
    ```
+
+### Screen
+
+![Product List Screen](assets/images/Screenshot_1751441543.png)
+![Add Product Screen](assets/images/Screenshot_1751441550.png)
+![Search Product](assets/images/Screenshot_1751441562.png)
+![Export PDF](assets/images/Screenshot_1751441586.png)
+![Edit Product](assets/images/Screenshot_1751441590.png)
